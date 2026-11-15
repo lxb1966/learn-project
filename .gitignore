@@ -1,0 +1,5 @@
+# WorkBuddy 项目数据（工作日志等，仅本地保留，不同步到仓库）
+.workbuddy/
+
+# CodeGraph 本地代码图谱索引
+.codegraph/
